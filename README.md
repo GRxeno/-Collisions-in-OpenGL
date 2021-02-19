@@ -4,8 +4,7 @@
 The source code of a game i made to learn how OpenGL works
 
 You need Visual Studio to run this game.\
-After visual studio install GLEW, GLFW and GLM: \ 
-(https://www.wikihow.com/Set-Up-OpenGL-GLFW-GLEW-GLM-on-a-Project-with-Visual-Studio)
+After visual studio install GLEW, GLFW and GLM: www.wikihow.com/Set-Up-OpenGL-GLFW-GLEW-GLM-on-a-Project-with-Visual-Studio
 
 We have a window 600x600 with a 100x100x100 transparent cube. The window is called "Collisions" and when you press "esc" it closes.
 When the user presses "spacebar" small objects appear in the cube that move freely inside the cube and collide with everything and change direction accordingly.
